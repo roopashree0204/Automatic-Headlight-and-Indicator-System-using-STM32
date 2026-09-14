@@ -1,8 +1,6 @@
 # Automatic-Headlight-and-Indicator-System-using-STM32
 STM32-based automatic headlight and indicator system using ADC-based voltage sensing and LED control.
 
-# Automatic Headlight and Indicator System using STM32
-
 ## Overview
 
 An embedded automotive system that uses an STM32F103C8T6 microcontroller to read analog voltage from a 10 kΩ potentiometer and control three LEDs based on predefined ADC voltage ranges.
